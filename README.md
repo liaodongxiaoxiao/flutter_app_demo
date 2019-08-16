@@ -2,7 +2,11 @@
 
 A new Flutter application.
 
-## Getting Started
+## 工程结构
+flutter_app_demo
+ ├── android  **Android 原生代码**            
+ ├── ios      **iOS 原生代码** 
+ ├── lib      **Dart 编写的flutter代码**
+ ├── test     **test 代码**   
+ └── pubspec.yaml **配置文件**
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
